@@ -1,9 +1,8 @@
 # WEBSITE BÁN ĐỒNG HỒ - ASP.NET MVC
 
-## THÔNG TIN THÀNH VIÊN
-
 - **Trường:** Đại học Công Thương TP.HCM (HUIT)
 - **Ngành:** Công nghệ thông tin
+## THÔNG TIN THÀNH VIÊN
   1. Trần Công Minh - 2001222641
   2. Lê Đức Trung - 2001225676
   3. Tạ Nguyên Vũ - 2001225916
