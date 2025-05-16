@@ -1,11 +1,13 @@
 # WEBSITE BÁN ĐỒNG HỒ - ASP.NET MVC
 
-## THÔNG TIN SINH VIÊN
+## THÔNG TIN THÀNH VIÊN
 
-- **Họ và tên:** Trần Công Minh
-- **MSSV:** 2001222641
 - **Trường:** Đại học Công Thương TP.HCM (HUIT)
 - **Ngành:** Công nghệ thông tin
+  1. Trần Công Minh - 2001222641
+  2. Lê Đức Trung - 2001225676
+  3. Tạ Nguyên Vũ - 2001225916
+  4. Nguyễn Chí Tài - 2001224227
 
 ## GIỚI THIỆU DỰ ÁN
 
