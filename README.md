@@ -103,7 +103,7 @@ Dự án "Website Bán Đồng Hồ" được xây dựng bằng ASP.NET MVC, l�
    - Build và chạy dự án
 
 ## Source Code + Báo cáo
-- [Link]([https://github.com/dexter826/dexter826/blob/main/MyCV.pdf](https://drive.google.com/drive/u/1/folders/1UheNadd-5-4I8xfTkU2KgG2oGCnErFpW))
+- [Link](https://drive.google.com/drive/u/1/folders/1UheNadd-5-4I8xfTkU2KgG2oGCnErFpW)
 
 ## LIÊN HỆ
 
